@@ -90,4 +90,4 @@ zoo -L archivo.zoo
 
 .rar (rar)
 
-
+Creo que hay que adicionar mas recetas, que sean realmente útiles a los principiantes especialmente escolares.
