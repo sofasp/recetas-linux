@@ -80,14 +80,5 @@ lha -l archivo.lha
 
 .zoo (zoo)
 
-Comprimir:     
-zoo -a archivo.zoo /mayo/archivos
-Descomprimir:     
-zoo -x archivo.zoo
-Ver contenido:     
-zoo -v archivo.zoo
-zoo -L archivo.zoo
-
-.rar (rar)
 
 
