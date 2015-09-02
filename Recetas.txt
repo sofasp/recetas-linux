@@ -4,6 +4,8 @@ ISO files are CD filesystems. You can either burn then to CD or mount them.
 
 mount -t iso9660 -o loop file.iso /mnt/point/
 
+Then you can install the rpms on them using the rpm command. The options -Uvh are probably most useful to you at this point, read man rpm for details.
+
 Comprimir y descomprimir	PDF	Imprimir	E-mail
 Escrito por José R Sosa	  
 Domingo, 19 de Agosto de 2012 07:10
