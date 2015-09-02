@@ -88,11 +88,4 @@ zoo -L archivo.zoo
 
 .rar (rar)
 
-Comprimir:     
-rar -a archivo.rar /mayo/archivos
-Descomprimir:     
-rar -x archivo.rar
-Ver contenido:     
-rar -v archivo.rar
-rar -l archivo.rar
-unrar  archivo.rar
+
