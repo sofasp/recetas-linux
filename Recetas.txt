@@ -1,3 +1,8 @@
+Montar archivos ISO, muy útil
+
+ISO files are CD filesystems. You can either burn then to CD or mount them.
+
+mount -t iso9660 -o loop file.iso /mnt/point/
 
 Comprimir y descomprimir	PDF	Imprimir	E-mail
 Escrito por José R Sosa	  
